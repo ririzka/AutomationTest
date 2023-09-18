@@ -9,7 +9,7 @@ https://www.saucedemo.com
 6. Click Stop
 7. Finished
 
-#Testing Backend With Postman
+# Testing Backend With Postman
 Here's how to do testing Backend API "Activities" Only from https://fakerestapi.azurewebsites.net/index.html using Postman
 1. Open Postman web version
 2. Choose Workspace > Create Workspace > Blank Workspace > Next
