@@ -20,3 +20,4 @@ Here's how to do testing Backend API "Activities" Only from https://fakerestapi.
 7. Click Send, and see the result
 8. Click Save > Change Request name  > Save
 9. Finished
+10. Right cick om collection to export to json
