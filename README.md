@@ -19,5 +19,5 @@ Here's how to do testing Backend API "Activities" Only from https://fakerestapi.
 6. Insert URL From https://fakerestapi.azurewebsites.net/index.html on Section Activities (/api/v1/Activities)
 7. Click Send, and see the result
 8. Click Save > Change Request name  > Save
-9. Right cick om collection to export to json
+9. Right cick on collection to export to json
 10. Finished
