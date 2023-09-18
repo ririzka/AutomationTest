@@ -18,3 +18,5 @@ Here's how to do testing Backend API "Activities" Only from https://fakerestapi.
 5. Example Request: Click New > Choose GET on HTTP Request options
 6. Insert URL From https://fakerestapi.azurewebsites.net/index.html on Section Activities (/api/v1/Activities)
 7. Click Send, and see the result
+8. Click Save > Change Request name  > Save
+9. Finished
